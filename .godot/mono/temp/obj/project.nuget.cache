@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9ISe/8mRz9PJDRVMUlsLQVq9UO9oAYjS1Jpammes92O0s2mRHTEux99ohwVUB5qx+MeCKrxaNa8dL3Dx22pyA==",
+  "success": true,
+  "projectFilePath": "C:\\deforris\\piratesoftware-gamejam\\TestAttempt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmuniz\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\jmuniz\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\jmuniz\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
