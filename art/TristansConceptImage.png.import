@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d23laowcv4m0m"
-path="res://.godot/imported/enemyWalking_2.png-67c480ed60c35e95f5acb0436246b935.ctex"
+uid="uid://cq612oswsas3"
+path="res://.godot/imported/TristansConceptImage.png-6d773b7150ba6d3a49db7674d013a198.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/enemyWalking_2.png"
-dest_files=["res://.godot/imported/enemyWalking_2.png-67c480ed60c35e95f5acb0436246b935.ctex"]
+source_file="res://art/TristansConceptImage.png"
+dest_files=["res://.godot/imported/TristansConceptImage.png-6d773b7150ba6d3a49db7674d013a198.ctex"]
 
 [params]
 
