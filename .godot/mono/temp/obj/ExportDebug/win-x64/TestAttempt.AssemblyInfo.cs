@@ -11,9 +11,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestAttempt")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("ExportDebug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b748fd5f75486919e76220888fe9f2c9942f378")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a2971487f546cb5ff684c380439fcd92fe6291")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestAttempt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestAttempt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

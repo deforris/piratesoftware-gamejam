@@ -1,3 +1,10 @@
+ItemList
+VBoxContainer
+Button
+TextEdit
+RichTextLabel
+ColorRect
+Control
 Sprite2D
 CollisionShape2D
 AnimatedSprite2D
